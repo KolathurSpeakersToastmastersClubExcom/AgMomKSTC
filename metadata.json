@@ -1,0 +1,6 @@
+{
+  "name": "Toastmasters AI",
+  "description": "An AI-powered application for Toastmasters clubs to plan meetings, manage rosters, and track performance role history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
